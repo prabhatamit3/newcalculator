@@ -1,0 +1,36 @@
+<resources>
+    <string name="app_name">CALCULATOR</string>
+    <string name="switch_name">Scientific</string>
+    <string name="A">INV</string>
+    <string name="B">RAD</string>
+    <string name="C">sin</string>
+    <string name="D">cos</string>
+    <string name="e">tan</string>
+    <string name="f">%</string>
+    <string name="g">ln</string>
+    <string name="h">log</string>
+    <string name="i">√</string>
+    <string name="j">^</string>
+    <string name="k">π</string>
+    <string name="l">e</string>
+    <string name="m">(</string>
+    <string name="n">)</string>
+    <string name="o">!</string>
+    <string name="p">7</string>
+    <string name="q">8</string>
+    <string name="r">9</string>
+    <string name="s">÷</string>
+    <string name="t">⌫</string>
+    <string name="u">4</string>
+    <string name="v">5</string>
+    <string name="w">6</string>
+    <string name="x">X</string>
+    <string name="y">1</string>
+    <string name="z">2</string>
+    <string name="aa">3</string>
+    <string name="ab">-</string>
+    <string name="ac">0</string>
+    <string name="ad">.</string>
+    <string name="ae">+</string>
+    <string name="af">=</string>
+</resources>
